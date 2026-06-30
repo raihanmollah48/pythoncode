@@ -1,2 +1,2 @@
 print("Wassup Buddy!! v9")
-print("This is my new Jenkins project")
+printThis is my new Jenkins project")
